@@ -1,7 +1,5 @@
 # %%
 
-# [fill this line]
-
 import figure
 
 myline = figure.line(10)
